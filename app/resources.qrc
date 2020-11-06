@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Resources/icons/32px/record4.png</file>
+    <file>Resources/icons/32px/user_active.png</file>
+    <file>Resources/icons/32px/user_alternative.png</file>
+    <file>Resources/icons/32px/record_alternative2.png</file>
+    <file>Resources/icons/32px/record_alternative.png</file>
+    <file>Resources/icons/32px/video-cam.png</file>
+    <file>Resources/icons/32px/record.png</file>
+    <file>Resources/icons/16px/cctv.png</file>
+    <file>Resources/icons/16px/player_white.png</file>
+    <file>Resources/icons/16px/user_light_gray.png</file>
+    <file>Resources/icons/16px/player_gray.png</file>
+    <file>Resources/icons/16px/stat_light_gray.png</file>
+    <file>Resources/icons/16px/user_white.png</file>
+    <file>Resources/icons/32px/cctv.png</file>
+    <file>Resources/icons/32px/player_white.png</file>
+    <file>Resources/icons/32px/user_light_gray.png</file>
+    <file>Resources/icons/32px/player_gray.png</file>
+    <file>Resources/icons/32px/stat_light_gray.png</file>
+    <file>Resources/icons/32px/record_purp.png</file>
+    <file>Resources/icons/32px/user_white.png</file>
+  </qresource>
+  <qresource prefix="placeholders">
+    <file>Resources/placeholder2.png</file>
+  </qresource>
+</RCC>
