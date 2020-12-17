@@ -4,7 +4,7 @@
 For Turkish documentation [click here](./tr_documentation.md)!
 ### About
 - **Goal**: Detect track and count the object according to its horizontal direction. 
-- Object Detective is an **open-source** cross-platform desktop application written in Python. It uses MySQL server to store its data and it requires an *login system*. 
+- Object Detective is an **open-source**, cross-platform desktop application written in Python. It uses MySQL server to store its data and it requires a *login system*. 
 - You can use this code for your own purposes however **if you need technical support, please consult us. You can reach out via email or LinkedIn for the right price and customized version for your purpose of our app.**
 - Currently our app supports for one-class object detection (which is *cows* right now) however anyone who is eligible enough, can train their own **TensorFlow** model and use this algorithm with it.
 
